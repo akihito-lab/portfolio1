@@ -246,12 +246,12 @@ main {
         transform: translate(-50%, -50%);
       }
       .en-copy {
-        font-size: 7rem;
+        font-size: 4rem;
         font-weight: bold;
         color: #ffffff;
         margin-bottom: 20px;
         @include sp {
-          font-size: 9.9vw;
+          font-size: 6vw;
           white-space: nowrap;
           margin-bottom: 53px;
         }
@@ -262,7 +262,7 @@ main {
         text-align: center;
         color: #ffffff;
         @include sp {
-          font-size: 8vw;
+          font-size: 6vw;
         }
         .fv-br {
           display: none;
